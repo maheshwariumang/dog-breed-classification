@@ -3,7 +3,7 @@
 Status: Code is ready. Files need to be rearranged
 
 #### Data:
-The dataset was downloaded from Kaggle, which comprises 120 breeds of dogs
+The dataset was downloaded from [Kaggle](https://www.kaggle.com/c/dog-breed-identification/overview), which comprises 120 breeds of dogs
 
 #### File descriptions
 - train.zip - the training set, you are provided the breed for these dogs
